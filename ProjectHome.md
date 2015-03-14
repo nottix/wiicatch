@@ -1,0 +1,1 @@
+configurator of wiimote event. Ex: modify volume from wiimote, modify brightness, mute/unmute, go to s2ram and etc.
